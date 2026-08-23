@@ -1,4 +1,4 @@
-# RL-based Adaptive DNA Compression
+# RL-based DNA Compression
 
 This folder contains the implementation of the RL-based adaptive compression method for genomic sequences. The method combines a pretrained Double Deep Q-Network model with a bzip2-based compression core. The RL model is used to select segment lengths dynamically according to the local statistical properties of the DNA sequence, while the selected segments are compressed using the C-based compression core.
 
