@@ -1,6 +1,8 @@
 # Compression Methods
 
-This folder contains the two lossless genomic sequence compression methods developed in this repository.
+This repository contains the implementations developed as part of my Master's thesis on genomic sequence compression.
+The thesis explores two lossless genomic sequence compression approaches: an RL-based approach and a hash-based approach.
+This folder contains the two corresponding implementations.
 
 The two implemented methods are:
 
